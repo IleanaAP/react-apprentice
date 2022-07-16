@@ -13,9 +13,6 @@ function App() {
       <AppBar
         title="MI SEGUNDA APP"
         subtitle="Ya funciona tambien!"
-        hour="16"
-        minutes="35"
-        seconds="0"
       />
     </div>
   );
