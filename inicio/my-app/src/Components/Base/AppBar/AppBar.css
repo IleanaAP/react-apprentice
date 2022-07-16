@@ -1,0 +1,9 @@
+.appbar {
+    background-color: rgb(0, 0, 0);
+    color: rgb(234, 47, 162);
+}
+
+.hour {
+    color: white;
+    left: 20;
+}
