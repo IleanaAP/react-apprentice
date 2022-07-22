@@ -14,3 +14,19 @@
     left: 150px;
     bottom: 50px;
 }
+
+.titulo-app-bar {
+    color: pink;
+}
+
+.titulo-app-bar:hover {
+    color: aliceblue;
+}
+
+#home {
+    color: aquamarine;
+}
+
+#link {
+    color: blueviolet;
+}
